@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Personal Webpage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #007bff;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+   
+    <h1>Urban Health centers Belagavi</h1>
+    <p>Helping patients to know availability of medicines</p>
+  </header>
+  
+
+  <main>
+    <h2>Our contribution</h2>
+    <p>We have travelled around Belgaum and observed many communities in this  
+       locality and we observed that there is a lack of communication So we are 
+       trying to solve this issue in small way </p>
+
+    <h2>Health Centers</h2>
+    <ul>
+      
+      <li><strong>BIMS Hospital</strong><br>Address: BIMS Road</li>
+       <li><strong>Urban Health Center - Dwaraka Nagar</strong><br>Dwaraka Nagar</li>
+      <li><strong>Urban Health Center - Rukmini Nagar</strong><br>Rukmini Nagar</li>
+      <li><strong>Urban Health Center - Ashok Nagar</strong><br>Ashok Nagar</li>
+      <li><strong>Urban Health Center - Khasbag</strong><br>Khasbag</li>
+      <li><strong>Urban Health Center - Shahapur</strong><br>Shahapur</li>
+      <li><strong>Urban Health Center - Angol</strong><br>Angol</li>
+      <li><strong>Urban Health Center - Chougulewadi</strong><br>Chougulewadi</li>
+      <li><strong>Urban Health Center - Vinayak Nagar</strong><br>Vinayak Nagar</li>
+      <li><strong>Urban Health Center - Ram Nagar</strong><br>Ram Nagar</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>Contact: <a href="mailto:urbanhealthcenterbelagavi@gmail.com">urbanhealthcenterbelagavi@gmail.com</a></p>
+
+  </footer>
+
+</body>
+</html>
